@@ -1,1 +1,2 @@
-# DICT_python_education_Vladyslav_Zhuravlev
+Vladyslav_Zhuravlev 519st Nadezhda Kozhemyakina
+
